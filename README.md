@@ -1,5 +1,4 @@
 # Movie-Recommmendation-System
-Certainly! Here is a detailed explanation of each step in the provided code:
 
 ### Import Dependencies
 
