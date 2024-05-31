@@ -75,7 +75,11 @@ Certainly! Here is a detailed explanation of each step in the provided code:
 
 ## RESULTS:
 Movies and TV Shows recommended for 'Blood & Water':
+
+
 ![image](https://github.com/SharmaAarohi/Movie-Recommmendation-System/assets/122620269/85123bc1-fdf8-4359-896e-e50ac3167f79)
 
 Movies and TV Shows recommended for 'Chappie':
+
+
 ![image](https://github.com/SharmaAarohi/Movie-Recommmendation-System/assets/122620269/f8f39891-5295-4937-8f79-18cd5a961197)
